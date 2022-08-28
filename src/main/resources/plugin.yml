@@ -1,0 +1,18 @@
+name: BadApplePlugin
+# main: com.dinnerbone.bukkit.sample.SamplePlugin
+main: xyz.andw.BadApplePlugin
+version: ${version}
+api-version: 1.13
+commands:
+  createframes:
+    description: Generates image sequence
+    usage: /createframes
+  buildframes:
+    description: Builds image sequence in world
+    usage: /buildframes
+  playframes:
+    description: Plays image sequence in place
+    usage: /playframes
+  choreo:
+    description: playframes but pufferfish
+    usage: /choreo
