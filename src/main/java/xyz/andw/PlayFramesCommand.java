@@ -25,10 +25,6 @@ import org.bukkit.plugin.Plugin;
  * I give up trying to get Java h.264 decoder libs to work
  */
 
-/**
- * Handler for the /pos sample command.
- * @author SpaceManiac
- */
 public class PlayFramesCommand implements CommandExecutor {
     private Plugin plugin;
 
