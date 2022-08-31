@@ -30,10 +30,6 @@ import org.bukkit.util.Vector;
  * I give up trying to get Java h.264 decoder libs to work
  */
 
-/**
- * Handler for the /pos sample command.
- * @author SpaceManiac
- */
 public class ChoreoCommand implements CommandExecutor {
     private Plugin plugin;
 
